@@ -9,5 +9,4 @@ public class QintessApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(QintessApplication.class, args);
 	}
-	
 }
